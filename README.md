@@ -49,6 +49,40 @@ gõ các câu lệnh này dưới terminal
     "redux-persist": "^6.0.0",
     "redux-thunk": "^3.1.0",
 Bước 6: Chạy dự án gõ npm start dưới terminal
+
+END SUB (The project uses IntelliJ as the development tool, so please download IntelliJ.
+Step 1: Download the project from GitHub.
+Step 2: Navigate to the Backend directory and then to the project directory (project_java2).
+Install the dependencies by clicking on 'Load Maven'.
+Step 3: Run the project or debug it.
+Step 4: To run the frontend, navigate to the Frontend directory.
+Download the Node.js environment from this link: https://nodejs.org/en.
+Go to the (project_java2_app) directory, which contains the project's frontend, and type npm install in the terminal.
+Step 5: Install the project dependencies.
+Type the following commands in the terminal:
+npm install axios
+npm install js-cookie
+npm install jwt-decode
+npm install query-string
+npm install react-router-dom
+npm install react-redux
+npm install react-scripts
+npm install react-toastify
+npm install redux-persist
+npm install redux-thunk
+"axios": "^1.7.2",
+"js-cookie": "^3.0.5",
+"jwt-decode": "^4.0.0",
+"query-string": "^9.0.0",
+"react-dom": "^18.3.1",
+"react-redux": "^9.1.2",
+"react-router-dom": "^6.23.1",
+"react-scripts": "5.0.1",
+"react-toastify": "^10.0.5",
+"redux": "^5.0.1",
+"redux-persist": "^6.0.0",
+"redux-thunk": "^3.1.0",
+Step 6: Run the project by typing npm start in the terminal.)
 ```
 
 ## Mô tả dự án - Description project
