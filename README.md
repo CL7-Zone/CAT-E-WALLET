@@ -1,5 +1,6 @@
 # TÊN DỰ ÁN CAT E-WALLET PROJECT
 
+<img width="25%" src="./logo.gif" />
 
 ## Những chức năng chính - Main functions
 
