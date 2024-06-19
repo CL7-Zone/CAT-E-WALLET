@@ -20,8 +20,9 @@ Tăng số dư trong tài khoản cuả khách hàng - Increase the amount in ac
 ```js
 - Dự án sử dụng công cụ Intellij nên hãy tải Intellij về
 Bước 1: tải dự án trên github về
-Bước 2: vào thư mục Backend vào thư mục dự án (project_java2)
-cài đặt các phụ thuộc bằng cách bấm load maven
+Bước 2: vào thư mục Backend bật Intellij lên vào 
+thư mục dự án (project_java2) cài đặt các phụ thuộc 
+bằng cách bấm load maven
 Bước 3: bấm chạy dự án hoặc bấm gỡ lỗi
 Bước 4: Chạy phần giao diện vào thư mục Frondend 
 tải môi trường node js về link tải: https://nodejs.org/en
