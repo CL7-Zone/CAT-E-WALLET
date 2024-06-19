@@ -9,7 +9,7 @@ import {getPaymentFailed, getPaymentStart, getPaymentSuccess}
 from "../redux/action/bank_account_action";
 
 export const api = axios.create({
-    baseURL: `http://localhost:8080`
+    baseURL: `https://project-java2.onrender.com`
     //process.env.REACT_APP_URL_SERVER_HOSTNAME
     //https://project-java2.onrender.com
     //http://localhost:8080
